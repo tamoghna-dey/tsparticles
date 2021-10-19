@@ -3,7 +3,7 @@
 # tsParticles - TypeScript Particles
 
 **A lightweight TypeScript library for creating particles. Dependency free (\*), browser ready and compatible with
-React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.js, Solid.js, and Web Components**
+React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.js, Solid.js, and Web Components.**
 
 [![Rate on Openbase](https://badges.openbase.com/js/rating/tsparticles.svg)](https://openbase.com/js/tsparticles?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge) [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/tsparticles/badge?style=rounded)](https://www.jsdelivr.com/package/npm/tsparticles) [![Cdnjs](https://img.shields.io/cdnjs/v/tsparticles)](https://cdnjs.com/libraries/tsparticles) [![npmjs](https://badge.fury.io/js/tsparticles.svg)](https://www.npmjs.com/package/tsparticles) [![npm](https://img.shields.io/npm/dm/tsparticles)](https://www.npmjs.com/package/tsparticles) [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/) [![CodeFactor](https://www.codefactor.io/repository/github/matteobruni/tsparticles/badge)](https://www.codefactor.io/repository/github/matteobruni/tsparticles) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b983aaf3461a4c48b1e2eecce1ff1d74)](https://www.codacy.com/manual/ar3s/tsparticles?utm_source=github.com&utm_medium=referral&utm_content=matteobruni/tsparticles&utm_campaign=Badge_Grade) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/matteobruni/tsparticles) [![Run on Repl.it](https://repl.it/badge/github/matteobruni/tsparticles)](https://repl.it/github/matteobruni/tsparticles)
 
@@ -289,11 +289,11 @@ the `Premium Addons for Elementor` plugin collection.
 
 ## Templates and Resources
 
-You can find some tsParticles related templates [here](https://github.com/tsparticles/templates). The templates are
+You can find some of the tsParticles related templates [here](https://github.com/tsparticles/templates). The templates are
 created for *Vanilla Javascript*, *ReactJS*, *VueJS*, *Angular*, *SvelteJS* and other frameworks.
 
-The templates will vary, new ones can be created or older ones updated with latest features or changed to a better
-style. Check them out once in a while.
+The templates will vary. New ones can be created or older ones updated with latest features or changed to a better
+style. Do check them out once in a while.
 
 If you created some good design with *tsParticles* feel free to submit a pull request with your cool template, you'll be
 credited as the template author!
@@ -356,7 +356,7 @@ credited as the template author!
 
 [![tsParticles COVID-19 demo](https://media.giphy.com/media/fsVN1ZHksgBIXNIbr1/giphy.gif)](https://particles.js.org/samples#virus)
 
-_Don't click! DON'T CLICK! OH NO IT'S SPREADING!!!!_
+_DON'T CLICK! DON'T CLICK! OH NO IT'S SPREADING!!!!_
 
 **COVID-19 is a serious disease. Please stay at home, wear a mask and stay safe!**
 
@@ -373,7 +373,7 @@ You can find some config samples [here](https://github.com/matteobruni/tsparticl
 You can find all options
 available [here](https://particles.js.org/docs/interfaces/Options_Interfaces_IOptions.IOptions.html) 📖
 
-## Want to see it in action and try it?
+## Do you want to see it in action and try it out?
 
 I've created a tsParticles collection on [CodePen](https://codepen.io/collection/DPOage) 😮 or you can checkout
 my [profile](https://codepen.io/matteobruni)
@@ -390,13 +390,13 @@ yarn install && yarn start
 
 **Boom! 💥** <http://localhost:3000> and you can checkout other demos.
 
-_If you are brave enough_ you can switch to the `dev` branch for trying the features under development.
+If you are brave enough, you can switch to the `dev` branch for trying the features under development.
 
 ---
 
 ## Migrating from Particles.js
 
-**tsParticles** library is fully compatible with the _particles.js_ configuration.
+The **tsParticles** library is fully compatible with the _particles.js_ configuration.
 
 Seriously, you just need to change the script source et-voilà, **you're ready** 🧙!
 
